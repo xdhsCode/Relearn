@@ -1,2 +1,2 @@
 # Relearn
-study the github again. to be familiar all its functions.
+study the GitHub again. to be familiar with all its functions.
